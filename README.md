@@ -15,6 +15,7 @@ figure classes for the back-end were declared abstract
 
 ## Project Structure
 
+```
 ── src
     ├── backend
     │   └── model
@@ -58,3 +59,5 @@ figure classes for the back-end were declared abstract
             ├── HexStringEngine.java
             ├── OvalsEngine.java
             └── PolygonsEngine.java
+            
+```
