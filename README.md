@@ -1,4 +1,4 @@
-# Microsoft-Paint-
+# Microsoft-Paint
 
 Final project for Object Oriented Programming class, our own implementation of a simplified of the classic Microsoft paint written in Java using JavaFx.
 
